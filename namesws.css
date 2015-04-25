@@ -1,0 +1,45 @@
+.nav
+{
+position: relative;
+float: left;
+height: 40px;
+width: 200px;
+border: 1px solid black;
+background: antiquewhite;
+}
+
+
+.divlikes
+{
+position: relative;
+clear: left;    
+top: 50px;
+}
+
+.contentsearch
+{
+position: relative;     
+}
+
+td
+{
+width: 150px;
+text-align: center;
+}
+
+.tabla
+{
+background: aliceblue;
+}
+
+.contentlikes
+{
+margin-top: 100px;
+position: relative;     
+border: 1px solid black;
+}
+
+.title
+{
+background: blanchedalmond;
+}
